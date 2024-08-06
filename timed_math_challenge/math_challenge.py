@@ -2,7 +2,7 @@ import random
 import time
 
 operators = ["+", "-", "*"]
-min_operand = 5
+min_operand = 2
 max_operand = 15
 total_problems = 10
 
