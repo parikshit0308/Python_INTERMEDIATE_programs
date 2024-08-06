@@ -1,3 +1,5 @@
-to run this program go to the directory and open that directory in CMD, after that just type --> python filename.py
+download the curses module using pip install windows-curses
+
+go to the directory and open that directory in CMD, after that just type --> python filename.py
 
 --> filename is the name of your file
